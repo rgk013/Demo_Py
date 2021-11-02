@@ -1,2 +1,2 @@
 # Demo_Py
-Demo for learn
+Demo of Markdown for easy way to format text 
